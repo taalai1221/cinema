@@ -92,7 +92,7 @@ const movies = [
 // =========================================================================
 
 // Укажи здесь путь к твоей общей песне (например: "music/background.mp3")
-const BACKGROUND_MUSIC_PATH = "music/Mr. kitty - After Dark.mp3";
+const BACKGROUND_MUSIC_PATH = "music/after-dark.mp3"
 
 document.addEventListener('DOMContentLoaded', () => {
     const introScreen = document.getElementById('intro-screen');
